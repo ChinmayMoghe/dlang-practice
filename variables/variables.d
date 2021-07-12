@@ -13,7 +13,7 @@ void main()
     numberOfDisappointments = 1000;
     writeln("Now , there are ", numberOfDisappointments, " disappointments in ma life.");
 
-    int numberOfOpportunities = 10;
+    const int numberOfOpportunities = 10;
 
     writeln("There are ", numberOfOpportunities, " job opportunities out there for me.");
 }
